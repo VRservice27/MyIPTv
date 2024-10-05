@@ -1,0 +1,66 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-match-tv.png" ,Матч! HD
+http://194.143.148.28:80/MatchHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1127.png" ,Матч Премьер HD
+http://194.143.148.28:80/MatchHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116.png" ,Матч! Футбол 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2300.png" ,Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2283.png" ,Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 1 HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/271/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 2 HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/270/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3586.png" ,National Geographic HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/134/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1026.png" ,National Geographic Wild
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/75/45/02/qds.png" ,Terra HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2183.png", Discovery HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/227/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3211.png", Discovery Science HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/136/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1261.png" ,Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1184.png" ,Animal Planet HD
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/218/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3524.png" ,Зоопарк
+http://94.158.54.107/89/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2587.png" ,Карусель
+http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/156/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1916.png" ,Мульт HD
+http://77.240.45.106:8888/play/a02b
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6858.png" ,Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3503.png" ,СТС Kids
+http://176.222.190.76/btv/icon/CTC_kids/CTC_kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3588.png" ,Nick Jr
+http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Детские мультфильмы HD
+http://fs2.persik.by/409143/index.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Уникум
+http://77.240.45.106:8888/play/a02a
