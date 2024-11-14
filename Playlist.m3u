@@ -1,27 +1,27 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-match-tv.png" ,Матч! HD
-http://194.143.148.28:80/MatchHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-match-tv.png" ,Матч! HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\212\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1127.png" ,Матч Премьер HD
 http://194.143.148.28:80/MatchHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116.png" ,Матч! Футбол 1 HD
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116.png" ,Матч! Футбол 1 HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\222\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2300.png" ,Матч! Футбол 2 HD
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2300.png" ,Матч! Футбол 2 HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\10027\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2283.png" ,Матч! Футбол 3 HD
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2283.png" ,Матч! Футбол 3 HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\206\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 1 HD
-http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/271/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 1 HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\271\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 2 HD
-http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/270/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1571.png" ,Setanta Sports 2 HD ok
+http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\270\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3586.png" ,National Geographic HD
-http://293ea85b.kazaktelekom.com/iptv/T29HHXYHLY4UKF/230/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3586.png" ,National Geographic HD ok
+http:\\wqdxs0sg.otttv.pw\iptv\T9S49SWKXM5PR6\2336\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1026.png" ,National Geographic Wild ok
 http://293ea85b.kazaktelekom.com/iptv/T29HHXYHLY4UKF/12099/index.m3u8
@@ -32,8 +32,8 @@ http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\230\index.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2183.png", Discovery HD ok 
 http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\227\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3211.png", Discovery Science HD
-http://2eda7909.shukinuki.ru/iptv/E8R9PTE5LVLRKY/136/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3211.png", Discovery Science HD ok
+http:\\evnfgx0m.rostelekom.xyz\iptv\BNQ5XADPQ8V5ET\136\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1261.png" ,Viasat Nature HD ok
 http:\\293ea85b.kazaktelekom.com\iptv\T29HHXYHLY4UKF\15225\index.m3u8
